@@ -23,4 +23,10 @@
 
  7. Complete the pull request. Go to "pull requests", click green button that says "pull request", assign to project and assign reviewers.
 
+ ## How to view and run code from someone elses branch. This will be useful when reviewing a "pull request". ##
+
+ - "git fetch"
+ 
+ - "git checkout -b <branchName> origin/<branchName>"
+
  
