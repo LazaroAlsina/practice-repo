@@ -8,7 +8,11 @@
 
 4. Set Rules. Settings > Branches > Add Rule > set branch name > select : 'Require pull request reviews before merging' AND 'Include administrators' > create
 
-5. Pushing our branch. 
+5. Set up a project, "basic kanban"
+
+6. Create issues and assign to project (don't worry about creating them all at once, start with the basics)
+
+6. Pushing our branch. 
 
  - "git status"
  - "git add ."
@@ -16,3 +20,7 @@
  - "git status"
  - "git pull origin main"
  - "git push origin <branchName>"
+
+ 7. Complete the pull request. Go to "pull requests", click green button that says "pull request", assign to project and assign reviewers.
+
+ 
